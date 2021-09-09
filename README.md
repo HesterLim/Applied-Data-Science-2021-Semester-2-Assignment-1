@@ -7,11 +7,7 @@
 
 # Dependencies
 - Language: Python 3.8.3
-- Packages / Libraries: pandas, numpy, matplotlib.pyplot, seaborn, warnings, bokeh, sklearn, statsmodels, folium. 
-
-# Datasets
-- NYC TLC: https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-- NYC Collision Dataset : https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
+- Packages / Libraries: pandas, numpy, matplotlib.pyplot, seaborn, warnings, gaussian, R. 
 
 # Directory
 - `raw_data`: Store all the raw data files. The raw data file can be downloaded by opening the terminal and changing the depository to the raw_data file and using wget to download the datasets used. The steps involved could be summarised as below in the terminal:
